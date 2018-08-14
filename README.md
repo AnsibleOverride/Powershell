@@ -1,3 +1,3 @@
 # PowerShell 
-Through online courses from CBT Nugget and books like Learn Windows Powershell in a Month of Lunches I have been teaching myself how to use Powershell.
+These are some of the powershell tools I have created for my team as a Sr. IT Support Agent. 
 
